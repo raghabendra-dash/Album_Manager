@@ -3,10 +3,11 @@
 
 The Album Manager App is a digital platform designed to help users to organize, store, and interact with their collections of media albums. Whether you're managing music albums, photo collections, or other types of media, this app provides a user-friendly interface to streamline your album management experience.
 
-> Live Link:   [click here](https://album-manager-ojq3yex9s-raghabendra-dashs-projects.vercel.app/)
+> Live Link:   [click here](https://album-manager-five.vercel.app/)
 
 
-### Features -
+### Features 
+
 > 5bb0fda18a19af2ccf33e65048625404582707d3
 Fetch and show albums from the api - https://jsonplaceholder.typicode.com/albums
 Add an album, make a POST call to the above url (from where you are fetching) and save the album in react state. (This will be a dummy request, you won’t be able to add albums to the server. But the request is valid and will send you some data. Read the guide).
