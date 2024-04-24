@@ -1,9 +1,9 @@
-## Album-Collections_Manager
+## Album_Manager
 
 
 The Album Manager App is a digital platform designed to help users to organize, store, and interact with their collections of media albums. Whether you're managing music albums, photo collections, or other types of media, this app provides a user-friendly interface to streamline your album management experience.
 
-> Live Link:   [click here]()
+> Live Link:   [click here](https://album-manager-ojq3yex9s-raghabendra-dashs-projects.vercel.app/)
 
 
 ### Features -
