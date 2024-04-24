@@ -7,7 +7,7 @@ The Album Manager App is a digital platform designed to help users to organize, 
 
 
 ### Features -
->>>>>>> 5bb0fda18a19af2ccf33e65048625404582707d3
+> 5bb0fda18a19af2ccf33e65048625404582707d3
 Fetch and show albums from the api - https://jsonplaceholder.typicode.com/albums
 Add an album, make a POST call to the above url (from where you are fetching) and save the album in react state. (This will be a dummy request, you won’t be able to add albums to the server. But the request is valid and will send you some data. Read the guide).
 Update the album, make a PUT call to the above url. (Again this is a dummy call).
